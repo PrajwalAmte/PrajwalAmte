@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Sophomore in The National Institute of Engineering, Mysuru.<br>👯 I’m looking to collaborate on project based on Python, C, C++, HTML, CSS<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning AI/ML<br>
+🔭 I’m Sophomore at The National Institute of Engineering, Mysuru.<br>👯 I’m looking to collaborate on project based on Python, C, C++, HTML, CSS<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning AI/ML<br>
 
 
 ## 🌐 Socials:
