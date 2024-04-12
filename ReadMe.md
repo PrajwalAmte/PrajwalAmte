@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Embarking on an Academic Odyssey as a Sophomore at The National Institute of Engineering, Mysuru<br>👯 Actively Seeking Opportunities for Collaborative Endeavors in the Spheres of Deep Learning and Machine Learning Projects<br>🌱 Cultivating and Advancing Proficiencies in the Dynamic Field of Machine Learning<br>💬 Engaging in Enthusiastic Discourse on All Facets of Technology and Innovation
+🔭 Embarking on an Academic Odyssey as a Pre-Final year Undergrad at The National Institute of Engineering, Mysuru<br>👯 Actively Seeking Opportunities for Collaborative Endeavors in the Spheres of Deep Learning and Machine Learning Projects<br>🌱 Cultivating and Advancing Proficiencies in the Dynamic Field of Machine Learning<br>💬 Engaging in Enthusiastic Discourse on All Facets of Technology and Innovation
 
 
 ## 🌐 Socials:
