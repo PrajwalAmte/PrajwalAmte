@@ -15,8 +15,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PrajwalAmte&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!--### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=PrajwalAmte&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
+## 🏆 Holopin Badges:
+[![An image of @prajwalamte's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prajwalamte)](https://holopin.io/@prajwalamte)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PrajwalAmte&icon=0&color=0)](https://visitcount.itsvg.in)
