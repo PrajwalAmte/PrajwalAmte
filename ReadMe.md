@@ -2,9 +2,7 @@
 🎓 Final-year undergraduate student pursuing a Bachelor's in Information Science at The National Institute of Engineering, Mysuru.<br>🔍 Passionate about leveraging technology for innovation in Full Stack Development, Machine Learning, and Devops.<br>📚 Actively exploring Federated Learning and Web3.0.<br>🤝 Open to collaborations and discussions on software development, cloud platforms, and cutting-edge research.<br>
 
 ## 🌐 Socials:
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrajwalAmte)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-amte/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/prajwal_amte)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrajwalAmte)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-amte/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/prajwal_amte)
 
 ---
 
