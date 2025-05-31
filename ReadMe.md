@@ -5,8 +5,6 @@
 
 I design and develop scalable software systems using modern full-stack frameworks, applied AI and machine learning, and DevOps practices. I’m particularly interested in building robust applications and currently exploring decentralized web systems.
 
-🌐 **[Visit My Portfolio](https://prajwalamte.github.io/)** | 📧 **Open to collaborations and professional opportunities**
-
 ---
 
 ## 🚀 Areas of Work
