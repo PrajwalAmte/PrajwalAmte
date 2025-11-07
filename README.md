@@ -60,24 +60,14 @@
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 
-
 ## GitHub Analytics
-
-<div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=PrajwalAmte&theme=tokyonight&hide_border=false&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=PrajwalAmte&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalAmte&theme=tokyonight&layout=compact&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=PrajwalAmte&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PrajwalAmte&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalAmte&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</div>
+## Developer Insight of the Day
+![Insight](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+<p align="center"><sub>Keep learning. Keep building. Keep shipping.</sub></p>
 
-## GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PrajwalAmte&theme=tokyonight&no-frame=true&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=PrajwalAmte&icon=2&color=6" />
-</p>
