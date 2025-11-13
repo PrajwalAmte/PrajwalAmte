@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Backend Systems | Machine Learning | Cloud & DevOps | Blockchain</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+Spring+Boot+%2B+PostgreSQL;Machine+Learning+%7C+ECG+Anomaly+Detection%2C+NIDS;Cloud+and+DevOps+Practitioner;Exploring+Blockchain+and+Tokenization;Building+Products+that+Solve+Real+Problems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+Spring+Boot+%2B+PostgreSQL;Machine+Learning;Cloud+and+DevOps+Practitioner;Exploring+Blockchain+and+Tokenization;Building+Products+that+Solve+Real+Problems" />
 </p>
 
 
