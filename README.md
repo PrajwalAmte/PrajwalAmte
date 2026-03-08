@@ -10,7 +10,6 @@
 
 - Software Engineer focused on **backend development and system design**
 - Currently building **fintech, automation and SaaS platforms**
-- Experience in **Deep Learning / Machine Learning** — ECG anomaly detection and network intrusion detection
 - Exploring **blockchain and tokenization**, particularly around digital assets and utility tokens
 - Strong interest in **distributed systems, DevOps practices, and scalable architecture**
 
