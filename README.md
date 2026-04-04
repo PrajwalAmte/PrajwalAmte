@@ -1,19 +1,19 @@
 <h1 align="center">Hi, I'm Prajwal Amte</h1>
-<h3 align="center">Software Engineer | Backend Systems | Machine Learning | Cloud & DevOps | Blockchain</h3>
+<h3 align="center">Engineer | Building Systems That Scale</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+Spring+Boot+%2B+PostgreSQL;Machine+Learning;Cloud+and+DevOps+Practitioner;Exploring+Blockchain+and+Tokenization;Building+Products+that+Solve+Real+Problems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=650&lines=Designing+Scalable+Systems;Building+Products+that+Solve+Real+Problems;Distributed+Systems+%7C+System+Design;Turning+Complexity+into+Simple+Solutions" />
 </p>
 
 
 ## About Me
 
-- Software Engineer focused on **backend development and system design**
-- Currently building **fintech, automation and SaaS platforms**
-- Exploring **blockchain and tokenization**, particularly around digital assets and utility tokens
-- Strong interest in **distributed systems, DevOps practices, and scalable architecture**
+* Engineer focused on **building scalable, reliable systems**
+* Work on **products that solve real-world problems end-to-end**
+* Strong interest in **system design, distributed systems, and infrastructure**
+* Approach problems with a **systems-first and pragmatic mindset**
 
-"I build systems that simplify complexity."
+> *"I build systems that simplify complexity and scale with growth."*
 
 
 ## Portfolio & Profiles
