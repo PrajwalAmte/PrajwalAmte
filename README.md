@@ -15,7 +15,6 @@
 
 > *"I build systems that simplify complexity and scale with growth."*
 
-
 ## Portfolio & Profiles
 
 <p>
@@ -59,10 +58,9 @@
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 
-## GitHub Analytics
-  
-![](https://github-readme-stats.vercel.app/api?username=PrajwalAmte&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PrajwalAmte&theme=dark&hide_border=false)<br/>
+## GitHub Analytics 
+![](https://github-readme-stats.vercel.app/api?username=PrajwalAmte&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=PrajwalAmte&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalAmte&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Developer Insight of the Day
