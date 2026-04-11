@@ -59,13 +59,11 @@
 
 
 ## GitHub Analytics 
-![](https://github-readme-stats.vercel.app/api?username=PrajwalAmte&show_icons=true&theme=dark&cache_seconds=86400)
-![](https://streak-stats.demolab.com?user=PrajwalAmte&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalAmte&layout=compact&theme=dark&cache_seconds=86400)
-![](https://github-readme-activity-graph.vercel.app/graph?username=PrajwalAmte&theme=github-dark)
+![](https://github-readme-stats.vercel.app/api?username=PrajwalAmte&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=PrajwalAmte&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalAmte&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Developer Insight of the Day
 ![Insight](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <p align="center"><sub>Keep learning. Keep building. Keep shipping.</sub></p>
-
