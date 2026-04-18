@@ -1,33 +1,20 @@
-<h1 align="center">Hi, I'm Prajwal Amte</h1>
-<h3 align="center">Engineer | Building Systems That Scale</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=650&lines=Designing+Scalable+Systems;Building+Products+that+Solve+Real+Problems;Distributed+Systems+%7C+System+Design;Turning+Complexity+into+Simple+Solutions" />
-</p>
+# Prajwal P Amte · Engineer
 
+<a href="https://prajwalamte.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/prajwal-amte-298740229/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/prajwal_amte"><img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-## About Me
+</div>
 
-* Engineer focused on **building scalable, reliable systems**
-* Work on **products that solve real-world problems end-to-end**
-* Strong interest in **system design, distributed systems, and infrastructure**
-* Approach problems with a **systems-first and pragmatic mindset**
+## About
 
-> *"I build systems that simplify complexity and scale with growth."*
-
-## Portfolio & Profiles
-
-<p>
-  <a href="https://prajwalamte.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/prajwal-amte-298740229/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/prajwal_amte"><img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
+I pick up whatever a problem needs — backend, infrastructure, a bit of ML, or frontend glue — and see it through. I care about systems that are simple to reason about and hold up under pressure.
 
 ## Technical Skillset
 
-
-### Languages
+**Languages**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-316192?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -35,35 +22,36 @@
 ![C](https://img.shields.io/badge/C-0A66C2?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-
-### Frameworks & Ecosystem (Frontend + Backend)
+**Frameworks & Ecosystem**
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-
-### Cloud, DevOps & Databases
+**Cloud, DevOps & Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-005C84.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-316CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
 
-
-### Machine Learning & Data Science
+**Machine Learning & Data Science**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
+## GitHub Analytics
 
-## GitHub Analytics 
-![](https://github-readme-stats.vercel.app/api?username=PrajwalAmte&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=PrajwalAmte&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalAmte&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=PrajwalAmte&theme=dark&hide_border=false" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalAmte&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
 ## Developer Insight of the Day
-![Insight](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
 
 <p align="center"><sub>Keep learning. Keep building. Keep shipping.</sub></p>
